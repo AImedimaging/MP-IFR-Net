@@ -41,7 +41,7 @@ CT Reconstruction
 
 ### Clone Repository
 
-git clone https://github.com/USERNAME/IFR-Net.git
+git clone https://github.com/AImedimaging/MP-IFR-Net.git
 
 cd IFR-Net
 
